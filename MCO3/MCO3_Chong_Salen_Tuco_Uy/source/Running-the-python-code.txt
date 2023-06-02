@@ -1,0 +1,13 @@
+Running the python code:
+Install python
+Add to path and make sure pip is installed in the python installer
+
+Go to command prompt and type the following:
+pip install pandas
+pip install matplotlib
+pip install imblearn
+pip install scikit-learn
+
+
+Go to the directory of the python file (make sure Covid Data.csv is in that same directory)
+Type "python <filename>.py"
